@@ -32,4 +32,4 @@ I am a passionate Full-Stack Developer specializing in the **MERN Stack** (Mongo
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<img src="https://cdn.jsdelivr.net" alt="GitHub Logo" width="32" height="32"/>
+![Github](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjENU3VsugWOBpkJNrAoHbmHmkpffGC94KJA&s)
