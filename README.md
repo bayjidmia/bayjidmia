@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="./bayjidmia
-/Gemini_Generated_Image_ymc850ymc850ymc8 (1).png
-" alt="Bayjid's Banner" width="100%">
+  <img src="https://github.com/bayjidmia/bayjidmia/blob/main/Gemini_Generated_Image_ymc850ymc850ymc8%20(1).png" alt="Bayjid's Banner" width="100%">
 </p>
 
 # Hi there, I'm Bayjid Mia 👋
