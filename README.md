@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="" alt="Bayjid's Banner" width="100%">
+</p>
+
 # Hi there, I'm Bayjid Mia 👋
 
 ### ⚡ MERN Stack Developer | Full-Stack Enthusiast | Problem Solver
